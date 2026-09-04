@@ -30,4 +30,4 @@ cd spyder-gemini-assistant
 pip install google-genai
 
 # 3. 執行程式
-python 打包程式輔助_AI.py
+python spyder_ai_copilot.py
