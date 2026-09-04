@@ -216,3 +216,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# 自訂 API 金鑰過濾
+*_key.txt
