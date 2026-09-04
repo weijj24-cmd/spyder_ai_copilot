@@ -2,11 +2,6 @@
 
 > 專為 Python 開發者設計的輕量化 Gemini AI 程式碼輔助工具，無需切換瀏覽器即可在 IDE Console 或命令列中即時生成程式碼。
 
-![Python](https://img.shields.org/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)
-![Google Gemini](https://img.shields.org/badge/Google%20Gemini-3.5%20Flash-8E75B2?style=flat&logo=google&logoColor=white)
-![Platform](https://img.shields.org/badge/Platform-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![License](https://img.shields.org/badge/License-MIT-4BC51D?style=flat)
-
 ---
 
 ## 📌 專案背景與簡介
